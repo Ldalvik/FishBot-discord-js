@@ -1,0 +1,23 @@
+{
+  "name": "rootbot",
+  "version": "1.0.0",
+  "description": "JavaScript port of my Java bot made using JDA",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "root-bot-js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "js"
+  ],
+  "author": "Julian",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.5.0"
+  }
+}
